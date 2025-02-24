@@ -1,0 +1,7 @@
+START_PATH: str = '/'  # Укажите начальный путь для поиска
+
+MIN_FOLDER_SIZE_GB: float = 10
+
+LOGFILE_PATH: str = 'log/log_exp.log'
+
+LOG_MAX_SIZE: int = 5_000_000
